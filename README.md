@@ -10,4 +10,6 @@ BenchmarkRingQueueEnqueueDequeue-16    	 5084738	       247.8 ns/op
 PASS
 ```
 
-![ringqueue图](https://static.jyshare.com/images/runoob-logo.png)
+detail:
+
+![ringqueue图](https://github.com/pieleon/ringqueue/Circular_Buffer_Animation.gif)
