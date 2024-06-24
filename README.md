@@ -12,4 +12,4 @@ PASS
 
 detail:
 
-![ringqueue图](https://github.com/pieleon/ringqueue/Circular_Buffer_Animation.gif)
+![ringqueue图](./Circular_Buffer_Animation.gif)
