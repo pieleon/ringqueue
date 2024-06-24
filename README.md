@@ -10,6 +10,6 @@ BenchmarkRingQueueEnqueueDequeue-16    	 5084738	       247.8 ns/op
 PASS
 ```
 
-detail:
+## detail:
 
 ![ringqueue图](./Circular_Buffer_Animation.gif)
